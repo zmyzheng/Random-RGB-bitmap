@@ -1,0 +1,1 @@
+# Random-RGB-bitmap
