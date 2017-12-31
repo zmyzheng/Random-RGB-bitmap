@@ -17,3 +17,5 @@ pip install numpy
 
 
 python3 challenge.py
+
+![](out.bmp)
