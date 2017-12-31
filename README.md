@@ -10,7 +10,10 @@
 How to run it?
 
 pip install Pillow
+
 pip install requests
+
 pip install numpy
+
 
 python3 challenge.py
